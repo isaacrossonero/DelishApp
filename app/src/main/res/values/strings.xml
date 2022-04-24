@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DelishApp</string>
+    //API key gained from spoonacular API console, account specific
+    <string name="api_key">f8ed87722b0242439dff6b1f08f49dff</string>
+    //Creating string array storing meal types items, according to API documentation
+    <string-array name="tags">
+        <item>main course</item>
+        <item>bread</item>
+        <item>marinade</item>
+        <item>side dish</item>
+        <item>breakfast</item>
+        <item>fingerfood</item>
+        <item>dessert</item>
+        <item>soup</item>
+        <item>snack</item>
+        <item>appetizer</item>
+        <item>beverage</item>
+        <item>drink</item>
+        <item>salad</item>
+        <item>sauce</item>
+    </string-array>
+</resources>
